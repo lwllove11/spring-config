@@ -1,1 +1,2 @@
-my.name = xiaomage-prod
+my:
+  name: xiaomage-prod
